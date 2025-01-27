@@ -33,17 +33,8 @@
 * **Image Usage:** Some images used in this project were sourced from Google Images. I understand the importance of respecting copyright and apologize if any images are used without proper attribution.
 Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.
 
-**Future Enhancements:** 🚀
-
-* **JavaScript Integration:** Adding interactivity with JavaScript for enhanced user experience.
-* **User Authentication:** Implementing user accounts for personalized experiences.
-* **Payment Gateway Integration:** Enabling secure online transactions.
-* **Accessibility Improvements:** Enhancing accessibility for users with disabilities.
 
 **I'm incredibly proud of this project!** It represents a significant milestone in my web development journey. I'm eager to continue learning and building more exciting projects.
-
-**[Your Name]** 
-**[Your Portfolio Link (Optional)]**
 
 ---
 
